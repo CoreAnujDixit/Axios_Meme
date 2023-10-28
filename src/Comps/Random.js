@@ -28,7 +28,7 @@ const Random = () => {
             <img src={gif} alt="" className='
             w-72 relative items-center flex
             left-48 h-40' />
-            <button onClick={ClickHandler} className="mt-3 bg-white py-2 px-6 rounded-full cursor-pointer">feferferrrr</button>
+            <button onClick={ClickHandler} className="mt-3 bg-white py-2 px-6 rounded-full cursor-pointer">Generate</button>
         </div>
     )
 }
